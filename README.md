@@ -1,0 +1,2 @@
+kiwi-source.zip contains only the folder with the files changed.
+The entire .vmdk file can be found here : https://uoioannina-my.sharepoint.com/:f:/g/personal/cs04375_uoi_gr/EuWwokUPvg5LmImeo_koMykBDb2w8-2tlN2yEHM6g49CWQ?e=QuZBBd
